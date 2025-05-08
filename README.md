@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoJc
-- Im currently a student studying Software Engineering at Macquarie University
+- Im currently a student studying Information Technology at Macquarie University
 - 📫 How to reach me: please contact me via this email: nojac42@gmail.com
 
 <!---
