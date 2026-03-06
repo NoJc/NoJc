@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NoJc
+- Hi, I’m @NoJc
 - Im currently a student studying Information Technology at Macquarie University
-- 📫 How to reach me: please contact me via this email: nojac42@gmail.com
+- Please contact me via this email: nojac42@gmail.com
 
 <!---
 NoJc/NoJc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
